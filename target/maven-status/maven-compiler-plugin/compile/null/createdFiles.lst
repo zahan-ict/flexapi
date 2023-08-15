@@ -1,0 +1,3 @@
+org\acme\reactive\crud\FruitResource.class
+org\acme\reactive\crud\DBInit.class
+org\acme\reactive\crud\Fruit.class
